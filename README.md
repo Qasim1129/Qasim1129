@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Qasim1129
-- 👀 I’m interested in becoming AWS Devops
+- 👀 I’m junior AWS Devops
 - 🌱 I’m currently learning AWS Solutions Architect
 - 💞️ I’m looking to collaborate on Cloud related projects
 - 📫 You can reach me at qasimyousufzai112@gmail.com
